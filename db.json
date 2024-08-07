@@ -65,6 +65,16 @@
         "time": "11:00",
         "petsAllowed": false,
         "organizer": "Brody Kill"
+      },{
+        "id": 2004,
+        "category": "Name",
+        "title": "Nattapat Pudhom",
+        "description": "Hii.",
+        "location": "Chiang Mai",
+        "date": "March 15, 2004",
+        "time": "11:11",
+        "petsAllowed": false,
+        "organizer": "CMU"
       }
     ]
   }
